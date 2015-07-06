@@ -2,7 +2,7 @@
 
 This is the server for Diskoveror Text Analytics Engine.
 
-## **Topic Extraction**
+#### **Topic Extraction**
 
    **The Basic Idea:**
 
@@ -25,17 +25,17 @@ USPs of our model,
                      *     We currently have a set of 22 coarse topics that in turn have                                                          750+ finer topics contained in them.                     
                            Eg. Music is a coarse topic and Jazz, Pop, Melody, etc are finer                                                       topics.
              
-### **The Working:**
+#### **The Working:**
     
    ![The Working](/Topic Model Work Flow.jpg "The Working")
 
-### **Results Snippet:**
+#### **Results Snippet:**
 As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
 
 ![Results Snippet](/table1.jpg "Results Snippet")
 
 
-#### **Sentiment Analysis :**
+## **Sentiment Analysis :**
 Sentiment Analysis has always been an excellent source of information that expresses user opinion towards any particular product or service, topic, etc. It is also capable of providing numerous insights that can be used to formulate marketing strategies, improve campaign success, improve customer service etc of any company. In short, if perfect sentiment analysis is done it will improve any company's bottom line for sure.
 
 Sentiment Analysis has always been a great research problem to solve, most of the solutions that companies use today are more rule based and are not capable of adapting to the dynamic world, we data scientists at Serendio are proposing a Machine Learning approach to this problem and we have developed a model that is capable of learning sentiments from nearly 36 Domains and also dynamically adapts to the new trends, unlike the rule based approaches. We also support 5 different types of text sources that include blogs, microblogs, news articles, reviews, comments and general text.
@@ -69,15 +69,15 @@ Sentiment Analysis has always been a great research problem to solve, most of th
 *  **Scored Results and Power to the Customer:**
    Most often in the field of sentiment analysis the end results are either positive, negative or neutral given any       text, but we at serendio were really curious to know about the degree of positivity or negativity, that is, given      any text we wanted to determine its sentiment polarity. So instead of just giving class labels, we give integer        values ranging from -5 to +5 (Most Negative to Most Positive) depending on the polarity of the text as results. Thus    making our models more fine and precise in determining the sentiments with more granularity. We give the Customers     the power to determine what score ranges they feel is positive, negative or neutral, thus making the sentiment         models more adaptive to different kinds of businesses, rather than enforcing something predetermined on them.
 
-## **Modelling:** 
+#### **Modelling:** 
 
 ![Modelling](/Sentiment Analysis Workflow.jpg "Modelling")
 
-## **Prediction and Scoring:**
+#### **Prediction and Scoring:**
 
 ![Prediction and Scoring](/Sentiments Working.jpg "Prediction and Scoring")
 
-## **Results Snippets:**
+#### **Results Snippets:**
    On an average each of our models have exceptional recall values ranging from 85% to 90%. (we are still working on      ways to improve the accuracy). Find below the result snippets,
    
    ![Results Snippets](/table2.jpg "Results Snippets")
