@@ -12,8 +12,8 @@ USPs of our model,
    *  It is capable of predicting topics based on the context in which a word/phrase of the text occurs.
       *   Example,
       
-                1. **Text 1**: The number of by-products derived from cow’s milk is just unbelievable.
-                2. **Text 2**: All the products sold by Flipkart are of high quality.
+          1. **Text 1**: The number of by-products derived from cow’s milk is just unbelievable.
+          2. **Text 2**: All the products sold by Flipkart are of high quality.
       *    Our model is capable of determining that Text 1 is about FOOD Products and Text 2 is about any GENERAL                 product based on the context of the sentence.
       *    It is equipped to learn any number of topics and the best part is you could specify what topics it needs to            learn and categorize any given document into.
       *    Example,
