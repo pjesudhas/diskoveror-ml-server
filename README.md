@@ -24,4 +24,4 @@ We use these Word2Vec vectors to form clusters by feeding the desired topics to 
              *     We currently have a set of 22 coarse topics that in turn have 750+ finer topics contained in them.                     Eg. Music is a coarse topic and Jazz, Pop, Melody, etc are finer topics.
 *** The Working:
     
-   ![System Architecture](/Topic Model Work Flow.jpg "System Architechture")
+   ![Architecture](/Topic Model Work Flow.jpg "Architechture")
