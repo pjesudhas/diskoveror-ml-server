@@ -36,23 +36,23 @@ Sentiment Analysis has always been an excellent source of information that expre
 Sentiment Analysis has always been a great research problem to solve, most of the solutions that companies use today are more rule based and are not capable of adapting to the dynamic world, we data scientists at Serendio are proposing a Machine Learning approach to this problem and we have developed a model that is capable of learning sentiments from nearly 36 Domains and also dynamically adapts to the new trends, unlike the rule based approaches. We also support 5 different types of text sources that include blogs, microblogs, news articles, reviews, comments and general text.
 
 #### Key Features:
+
 *  Social Text Processor (SocialFilters):
    Of all the text data available to us, 60% to 70% are completely unstructured and are not suitable for most of the      NLP tools available today for processing them. We at serendio are working to process all of this unstructured data     into text suitable for Text Analytics applications with Processing Filters for:
-1. Acronyms [LOL, OMG, etc.]
-2. Emoticons [ :) , :( , etc.]
-3. Spell Check
-4. Contractions
-5. Hashtags
-6. Sentiment Scorer for Emoticons, Acronyms, Hashtags.
-   We have discovered that by processing the hashtags, emoticons, acronyms, etc the sentiment engine becomes more wiser    in predicting the sentiment score.
+   1. Acronyms [LOL, OMG, etc.]
+   2. Emoticons [ :) , :( , etc.]
+   3. Spell Check
+   4. Contractions
+   5. Hashtags
+   6. Sentiment Scorer for Emoticons, Acronyms, Hashtags.
+      We have discovered that by processing the hashtags, emoticons, acronyms, etc the sentiment engine becomes more         wiser in predicting the sentiment score.
 
 *  Multi Domain Support:
-   
-    
    The main reason why Sentiment Analysis has always been a challenging problem is because of the wide range of domains    available and each domain has its own set of sentiment rich words or phrases that conflict with those in the other     domains. To overcome this we have built Domain specific models that are capable of capturing the sentiment semantics    of each domain and thus able to handle text from any domain with great precision. Especially for reviews we support    a set of:
-1. 11 Top Domains: Products, Electronics and Technology, Movies, Services, Books, Food, Hotels and Bars, Music, Places, Restaurants, Travel and Tour.
-2. 36 Finer Sub Domains,  that comes under each of the top domains.
-   *  Example, The top domain “Products” has 16 sub domains ranging from apparels to grocery.
+   1. 11 Top Domains: Products, Electronics and Technology, Movies, Services, Books, Food, Hotels and Bars, Music,           Places, Restaurants, Travel and Tour.
+   2. 36 Finer Sub Domains,  that comes under each of the top domains.
+       *  Example, The top domain “Products” has 16 sub domains ranging from apparels to grocery.
+       
 *  Multiple Text Sources Support:
    We at serendio have done extensive research on the best mechanisms to predict the sentiment of various text types      that include text from sources like: Blogs, Microblogs, News Articles, Reviews, Comments and General text. Each of     these text sources has its own sentiment rich spots that we need to concentrate on to get the precise sentiment        scores. Some Sentiment Rich Spots,
    *  Title of the text in the case of News Articles, reviews, etc.
