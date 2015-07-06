@@ -27,8 +27,8 @@ USPs of our model,
    ![The Working](/Topic Model Work Flow.jpg "The Working")
 
 ### Results Snippet:
-    As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
-   Text
-	
+As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
+    
+   
 
 
