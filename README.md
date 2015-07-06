@@ -8,7 +8,7 @@ This is the server for Diskoveror Text Analytics Engine.
 
 We use these Word2Vec vectors to form clusters by feeding the desired topics to be learnt as seeds to the model, we  follow a unique approach in performing the clustering, that ultimately leads to the formation of clusters that       capture the semantics of any topic fed into it.
     
-USPs of our model,
+USP's of our model,
    *  It is capable of predicting topics based on the context in which a word/phrase of the text occurs.
       *   Example,
       
@@ -35,7 +35,7 @@ As our model is semi supervised we don’t have train or test data to evaluate o
 ![Results Snippet](/table1.jpg "Results Snippet")
 
 
-## **Sentiment Analysis :**
+## **Sentiment Analysis**
 Sentiment Analysis has always been an excellent source of information that expresses user opinion towards any particular product or service, topic, etc. It is also capable of providing numerous insights that can be used to formulate marketing strategies, improve campaign success, improve customer service etc of any company. In short, if perfect sentiment analysis is done it will improve any company's bottom line for sure.
 
 Sentiment Analysis has always been a great research problem to solve, most of the solutions that companies use today are more rule based and are not capable of adapting to the dynamic world, we data scientists at Serendio are proposing a Machine Learning approach to this problem and we have developed a model that is capable of learning sentiments from nearly 36 Domains and also dynamically adapts to the new trends, unlike the rule based approaches. We also support 5 different types of text sources that include blogs, microblogs, news articles, reviews, comments and general text.
@@ -56,7 +56,7 @@ Sentiment Analysis has always been a great research problem to solve, most of th
    The main reason why Sentiment Analysis has always been a challenging problem is because of the wide range of domains    available and each domain has its own set of sentiment rich words or phrases that conflict with those in the other     domains. To overcome this we have built Domain specific models that are capable of capturing the sentiment semantics    of each domain and thus able to handle text from any domain with great precision. Especially for reviews we support    a set of:
    1. **11 Top Domains:** Products, Electronics and Technology, Movies, Services, Books, Food, Hotels and Bars, Music,           Places, Restaurants, Travel and Tour.
    2. **36 Finer Sub Domains**,  that comes under each of the top domains.
-       *  Example, The top domain “Products” has 16 sub domains ranging from apparels to grocery.
+       *  Example: The top domain “Products” has 16 sub domains ranging from apparels to grocery.
        
 *  **Multiple Text Sources Support:**
    We at serendio have done extensive research on the best mechanisms to predict the sentiment of various text types      that include text from sources like: Blogs, Microblogs, News Articles, Reviews, Comments and General text. Each of     these text sources has its own sentiment rich spots that we need to concentrate on to get the precise sentiment        scores. Some Sentiment Rich Spots,
@@ -80,5 +80,5 @@ Sentiment Analysis has always been a great research problem to solve, most of th
 #### **Results Snippets:**
    On an average each of our models have exceptional recall values ranging from 85% to 90%. (we are still working on      ways to improve the accuracy). Find below the result snippets,
    
-   ![Results Snippets](/table2.jpg "Results Snippets")
+   ![Results Snippets](/tables.jpg "Results Snippets")
 
