@@ -32,6 +32,8 @@ USPs of our model,
 ### **Results Snippet:**
 As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
 
+![Results Snippet](/table1.jpg "Results Snippet")
+
 
 #### **Sentiment Analysis :**
 Sentiment Analysis has always been an excellent source of information that expresses user opinion towards any particular product or service, topic, etc. It is also capable of providing numerous insights that can be used to formulate marketing strategies, improve campaign success, improve customer service etc of any company. In short, if perfect sentiment analysis is done it will improve any company's bottom line for sure.
@@ -77,4 +79,6 @@ Sentiment Analysis has always been a great research problem to solve, most of th
 
 ## **Results Snippets:**
    On an average each of our models have exceptional recall values ranging from 85% to 90%. (we are still working on      ways to improve the accuracy). Find below the result snippets,
+   
+   ![Results Snippets](/table2.jpg "Results Snippets")
 
