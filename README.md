@@ -23,4 +23,36 @@ USPs of our model,
              *     We currently have a set of 22 coarse topics that in turn have 750+ finer topics contained in them.                     Eg. Music is a coarse topic and Jazz, Pop, Melody, etc are finer topics.
 *** The Working:
     
-   ![Architecture](/Topic Model Work Flow.jpg "Architechture")
+   ![The Working](/Topic Model Work Flow.jpg "The Working")
+*** Results Snippet:
+    As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
+   Text
+	
+
+Topics/Categories
+
+Heading to a garden cocktail party.
+	
+
+travel || food || general
+
+so much cool stuff happening on mtv awards, so many awesome artists  kings of leon performing BOOO, i hate cable.
+	
+
+media || pop
+
+@Valkyrie_NYC Hi Philine, nice to meet you. I just looked at your bio and even your name suits the fact that you are a opera singer.
+	
+
+celebrity || music || pop
+
+@FatimaControl @shotgunxsarah if i had a car I would so volunteer, I havent seen them since Reno 2007
+	
+
+culture || business || general
+
+Sunday, lazy Sunday... after this long weekend, no more vacation time until August
+	
+
+news || travel
+   
