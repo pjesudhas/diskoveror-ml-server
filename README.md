@@ -21,9 +21,11 @@ USPs of our model,
          3.  The model has also been crafted in a way that, it does not learn all the noisy topics from the text,                   meticulous evaluations are done before we tag the text under any topic (The algorithms that we use to                  achieve this is our secret recipe), thus ensuring the accuracy of the model.
          4.  We do analysis at both coarse and finer levels of topics, thus enabling our model to be bang on when it                does a prediction.
              *     We currently have a set of 22 coarse topics that in turn have 750+ finer topics contained in them.                     Eg. Music is a coarse topic and Jazz, Pop, Melody, etc are finer topics.
+             
 *** The Working:
     
    ![The Working](/Topic Model Work Flow.jpg "The Working")
+
 *** Results Snippet:
     As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
    Text
