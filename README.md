@@ -80,5 +80,5 @@ Sentiment Analysis has always been a great research problem to solve, most of th
 #### **Results Snippets:**
    On an average each of our models have exceptional recall values ranging from 85% to 90%. (we are still working on      ways to improve the accuracy). Find below the result snippets,
    
-   ![Results Snippets](/table2.jpg "Results Snippets")
+   ![Results Snippets](/tables.jpg "Results Snippets")
 
