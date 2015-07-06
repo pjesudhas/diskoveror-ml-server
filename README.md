@@ -62,5 +62,19 @@ Sentiment Analysis has always been a great research problem to solve, most of th
    *  First and Last paragraphs in the case of Blogs.
    *  Emoticons, Acronyms and Abbreviations in the case of Comments and Microblogs.
       We have intelligent mechanism to dynamically vary the sentiment scoring of any text based on its source and            sentiment hotspots.
+ We have intelligent mechanism to dynamically vary the sentiment scoring of any text based on its source and sentiment  hotspots.
 
+*  **Scored Results and Power to the Customer:**
+   Most often in the field of sentiment analysis the end results are either positive, negative or neutral given any       text, but we at serendio were really curious to know about the degree of positivity or negativity, that is, given      any text we wanted to determine its sentiment polarity. So instead of just giving class labels, we give integer        values ranging from -5 to +5 (Most Negative to Most Positive) depending on the polarity of the text as results. Thus    making our models more fine and precise in determining the sentiments with more granularity. We give the Customers     the power to determine what score ranges they feel is positive, negative or neutral, thus making the sentiment         models more adaptive to different kinds of businesses, rather than enforcing something predetermined on them.
+
+## **Modelling:** 
+
+![Modelling](/Sentiment Analysis Workflow.jpg "Modelling")
+
+## **Prediction and Scoring:**
+
+![Prediction and Scoring](/Sentiments Working.jpg "Prediction and Scoring")
+
+## **Results Snippets:**
+   On an average each of our models have exceptional recall values ranging from 85% to 90%. (we are still working on      ways to improve the accuracy). Find below the result snippets,
 
