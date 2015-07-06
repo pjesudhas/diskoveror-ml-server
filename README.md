@@ -32,7 +32,7 @@ USP's of our model,
 #### **Results Snippet:**
 As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
 
-![Results Snippet](/table1.jpg "Results Snippet")
+![Results Snippet](/tabless.jpg "Results Snippet")
 
 
 ## **Sentiment Analysis**
