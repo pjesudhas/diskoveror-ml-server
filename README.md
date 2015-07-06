@@ -56,7 +56,7 @@ Sentiment Analysis has always been a great research problem to solve, most of th
    The main reason why Sentiment Analysis has always been a challenging problem is because of the wide range of domains    available and each domain has its own set of sentiment rich words or phrases that conflict with those in the other     domains. To overcome this we have built Domain specific models that are capable of capturing the sentiment semantics    of each domain and thus able to handle text from any domain with great precision. Especially for reviews we support    a set of:
    1. **11 Top Domains:** Products, Electronics and Technology, Movies, Services, Books, Food, Hotels and Bars, Music,           Places, Restaurants, Travel and Tour.
    2. **36 Finer Sub Domains**,  that comes under each of the top domains.
-       *  Example, The top domain “Products” has 16 sub domains ranging from apparels to grocery.
+       *  Example: The top domain “Products” has 16 sub domains ranging from apparels to grocery.
        
 *  **Multiple Text Sources Support:**
    We at serendio have done extensive research on the best mechanisms to predict the sentiment of various text types      that include text from sources like: Blogs, Microblogs, News Articles, Reviews, Comments and General text. Each of     these text sources has its own sentiment rich spots that we need to concentrate on to get the precise sentiment        scores. Some Sentiment Rich Spots,
