@@ -29,30 +29,4 @@ USPs of our model,
    Text
 	
 
-Topics/Categories
 
-Heading to a garden cocktail party.
-	
-
-travel || food || general
-
-so much cool stuff happening on mtv awards, so many awesome artists  kings of leon performing BOOO, i hate cable.
-	
-
-media || pop
-
-@Valkyrie_NYC Hi Philine, nice to meet you. I just looked at your bio and even your name suits the fact that you are a opera singer.
-	
-
-celebrity || music || pop
-
-@FatimaControl @shotgunxsarah if i had a car I would so volunteer, I havent seen them since Reno 2007
-	
-
-culture || business || general
-
-Sunday, lazy Sunday... after this long weekend, no more vacation time until August
-	
-
-news || travel
-   
