@@ -11,4 +11,5 @@ We use these Word2Vec vectors to form clusters by feeding the desired topics to 
     
     USPs of our model,
    * It is capable of predicting topics based on the context in which a word/phrase of the text occurs.
-          - Example,
+          
+   - Example,
