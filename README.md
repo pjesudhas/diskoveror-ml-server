@@ -2,6 +2,20 @@
 
 This is the server for Diskoveror Text Analytics Engine.
 
+## **Getting Started**
+
+#### **Installing Software Packages**
+The Requirements.txt file specifies the software packages along with their versions to be installed.
+>     root@root-Motherboard-H61MAT-D-E:~/Documents/diskoveror-ml-server$ **sudo pip install -r requirements.txt**
+
+#### **Running Topic Server:**
+
+>     root@root-Motherboard-H61MAT-D-E:~/Documents/diskoveror-ml-server/TopicThrift$ **python server.py** 
+
+#### **Running Sentiment Server:**
+
+>     root@root-Motherboard-H61MAT-D-E:~/Documents/diskoveror-ml-server/SentimentThrift/Thrift$ **python server.py**
+
 #### **Topic Extraction**
 
    **The Basic Idea:**
@@ -28,11 +42,6 @@ USP's of our model,
 #### **The Working:**
     
    ![The Working](/Topic Model Work Flow.jpg "The Working")
-
-
-#### **Running Topic Server:**
-Go into the TopicThrift Directory and run the follwing command
-> python server.py
 
 #### **Results Snippet:**
 As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
