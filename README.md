@@ -29,6 +29,11 @@ USP's of our model,
     
    ![The Working](/Topic Model Work Flow.jpg "The Working")
 
+
+#### **Running Topic Server:**
+Go into the TopicThrift Directory and run the follwing command
+> python server.py
+
 #### **Results Snippet:**
 As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
 
