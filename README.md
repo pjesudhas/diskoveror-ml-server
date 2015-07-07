@@ -4,16 +4,16 @@ This is the server for Diskoveror Text Analytics Engine.
 
 ## **Getting Started**
 
-#### **Installing Software Packages:**
+#### **Installing Software Packages for Diskoveror-ML-Server:**
 The Requirements.txt file specifies the software packages along with their versions to be installed.
 >     root@root-Motherboard-H61MAT-D-E:~/Documents/diskoveror-ml-server$ sudo pip install -r requirements.txt
 
 #### **Running Topic Server:**
-
+To start the Topic Server, the following command has to be run from the command line.
 >     root@root-Motherboard-H61MAT-D-E:~/Documents/diskoveror-ml-server/TopicThrift$ python server.py
 
 #### **Running Sentiment Server:**
-
+To start the Sentiment Server, the following command has to be run from the command line.
 >     root@root-Motherboard-H61MAT-D-E:~/Documents/diskoveror-ml-server/SentimentThrift/Thrift$ python server.py
 
 #### **Topic Extraction**
