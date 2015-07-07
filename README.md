@@ -7,7 +7,7 @@ This is the server for Diskoveror Text Analytics Engine.
 #### **Software Requirements**
 
 #### **python**
->    python 2.7.x
+>    python 2.7.X
 
 #### **Installing Software Packages for Diskoveror-ML-Server:**
 The Requirements.txt file specifies the software packages along with their versions to be installed.
